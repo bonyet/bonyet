@@ -1,7 +1,4 @@
-Good day, I am @bonyet
-I’m interested in making games and game engines
-I’m currently learning graphics programming
-I’m looking to collaborate on nothing. Sorry
+Good day, I am @bonyet.
 
 How to reach me:
   1. Put a note in a bottle
