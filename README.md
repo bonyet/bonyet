@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bonyet
-- 👀 I’m interested in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Good day, I am @bonyet
+I’m interested in making games and game engines
+I’m currently learning graphics programming
+I’m looking to collaborate on nothing. Sorry
 
-<!---
-bonyet/bonyet is not like the other repositories because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How to reach me:
+  1. Put a note in a bottle
+  2. Throw the bottle into the ocean
+  3. Wait (it takes a while)
